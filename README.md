@@ -25,5 +25,15 @@ Random Forest Models are powerful and they have numerous hyperparameters to impr
 ![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/fe24a491-5982-4114-9b68-94a8dfb36e14)
 The data shows that the Item_Type has variation across the data. Some items sold more than others.
 
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/d563eede-b941-4d1c-893f-9ef89e4c3747)
+
+Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread impact Sales.
+
+
 ![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/d1d67329-674a-4e03-af09-bb645477ed11)
-The data shows that Item_MRP is at 300.
+The data shows that Item_MRP is at 300.                      
+
+
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/a62e56ca-5c30-4770-a3c7-ebdbe25e8593)
+Model shows which features were impact sales based upon the Random Forest Trees.  It indicatees that Item_MRP, Item_Visibility and Item_Weight impact sales.
+
