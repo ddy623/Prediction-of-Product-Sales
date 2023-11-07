@@ -14,10 +14,12 @@ This project has two components. The first is an Exploratory Data Analysis and t
 Using Machine Learning, we analyze the data using Regression Models.  The Regression models to predict sales, which were Linear Regression and Random Forest Trees.
 
 Results:
-Based upon the data, we were able to see that Item Weight, Item MRP and Item Visibility played a much greater role on sales than Item Fat Content or Item Type. 
+Based upon the data, we were able to see that Item Weight, Item MRP and Item Visibility played a much greater role on sales than Item Fat Content or Item Type, as this was indicated in the Random Forest Tree Model. However, the Linear Regression Model using coefficients indicated that high among Item_MRP, Item_Seafood, and Item_Bread, which means these three items had the most impact on sales. 
 
-In order to analyze the data, we used Random Forest Trees and Linear Regression Model. The Random Forest Model showed better results on the training data than the Linear Regression Model.  Using GridSearch,the training data, the Random Forest Model showed 0.94 and on the test data, the results indicated 0.56. On the other hand, the Linear Regression Model the training and test data were at 56.4, which was relatively the same.
-Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
+
+In order to analyze the data, we used Random Forest Trees and Linear Regression Model.   Using GridSearch,the training data, the Random Forest Model showed 0.94 and on the test data, the results indicated 0.56. On the other hand, the Linear Regression Model the training and test data were at 56.4, which was relatively the same.  
+
+The Random Forest Model showed better results on the training data than the Linear Regression Model. Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 
 ![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/fe24a491-5982-4114-9b68-94a8dfb36e14)
