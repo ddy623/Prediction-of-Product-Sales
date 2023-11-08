@@ -23,7 +23,8 @@ The Random Forest Model showed better results on the training data than the Line
 Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 
 
-![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/d563eede-b941-4d1c-893f-9ef89e4c3747)
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/d1c00c0b-9ad6-4073-87b4-fc27dfae0577)
+
 
 Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread impact Sales.
 
