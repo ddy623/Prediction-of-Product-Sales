@@ -34,7 +34,7 @@ Figure 2. The data shows that the Item_MRP is about 300.
 
 
 ![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/3bc92f15-07c1-42a4-b7fb-f5b0ac4b3b15)
-s/129712664/d1c00c0b-9ad6-4073-87b4-fc27dfae0577)
+
 
 Figure 3. Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread impact Sales.
 
