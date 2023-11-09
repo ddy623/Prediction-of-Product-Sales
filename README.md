@@ -24,10 +24,16 @@ In order to analyze the data, we used Random Forest Trees and Linear Regression 
 The Random Forest Model showed better results on the training data than the Linear Regression Model. Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 
-(https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/8f790cdc-e9fe-4642-8fdc-0129dc6b6e7e)
+
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/1a3bf351-0562-4e17-ba19-a4eeec5816cd)
+
+
 Figure 1. The data shows that Item_Type shows variations among items sold. Fruits and Vegetables sold more than any other item.
 
-(https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/1a1999e1-0220-4e11-bdc4-6cb834bea404)
+
+
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/a8f7edf6-4598-4335-8f05-c32b5b23d7fd)
+
 
 
 Figure 2. The data shows that the Item_MRP is about 300.
@@ -36,12 +42,17 @@ Figure 2. The data shows that the Item_MRP is about 300.
 
 
 
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/0af870b4-9981-4f94-8b1b-0793af788bfc)
+
+
 
 Figure 3. Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread impact Sales.
 
                       
 
 
-(https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/a62e56ca-5c30-4770-a3c7-ebdbe25e8593)
+![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/7a73b990-a4f2-432e-b80f-a415a5a287c0)
+
+
 Figure 4. Model shows which features were impact sales based upon the Random Forest Trees.  It indicatees that Item_MRP, Item_Visibility and Item_Weight impact sales.
 
