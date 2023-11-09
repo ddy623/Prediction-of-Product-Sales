@@ -46,7 +46,7 @@ Figure 2. The data shows that the Item_MRP is about 300.
 
 
 
-Figure 3. Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread impact Sales.
+Figure 3. Model shows the coefficients using Linear Regression. It shows that Item_MRP, Item_Type_Seafood and Item_Type_Bread played a role on the impact of sales.
 
                       
 
@@ -54,5 +54,5 @@ Figure 3. Model shows the coefficients using Linear Regression. It shows that It
 ![download](https://github.com/ddy623/Prediction-of-Product-Sales/assets/129712664/7a73b990-a4f2-432e-b80f-a415a5a287c0)
 
 
-Figure 4. Model shows which features were impact sales based upon the Random Forest Trees.  It indicatees that Item_MRP, Item_Visibility and Item_Weight impact sales.
+Figure 4. Model shows which features were impact sales based upon the Random Forest Trees.  It indicatees that Item_MRP, Item_Visibility and Item_Weight also had an impact on sales.
 
