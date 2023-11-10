@@ -13,13 +13,13 @@ This project has two components. The first is an Exploratory Data Analysis and t
 
 Based upon Exploratory Data Analysis, we are able to see that there is variation across the data and some items sold more than others.  The data shows that Fruits and Vegetables, Snack Foods, and Household items were the highest among items sold. See figure 1.
 
-Using Machine Learning, we analyze the data using Regression Models.  The Regression models to predict sales, which were Linear Regression and Random Forest Trees.
+Using Machine Learning, we analyze the data using Regression Models.  The Regression models used to predict sales,  were Linear Regression and Random Forest Trees Model.
 
 Results:
 Based upon the data, we were able to see that Item Weight, Item MRP and Item Visibility played a much greater role on sales than Item Fat Content or Item Type, as this was indicated in the Random Forest Tree Model( See Figure 3). However, the Linear Regression Model using coefficients indicated that high among Item_MRP, Item_Seafood, and Item_Bread, which means these three items had the most impact on sales (See Figure 4). 
 
 
-In order to analyze the data, we used Random Forest Trees and Linear Regression Model.   Using GridSearch,the training data, the Random Forest Model showed 1.00 on the training -0.25 on the test data.  On the other hand, the Linear Regression Model the training and test data were at 46.8, which was relatively the same as the test data, which was 48.4.  The data performed better on the Random Forest Data for training but performed poorly on the testing and also poorly when it was tuned. It also performed poorly on Linear Regression Model.  
+In order to analyze the data, we used Random Forest Tree  and Linear Regression Model.   Using GridSearch,the training data, the Random Forest Model showed 1.00 on the training -0.25 on the test data.  On the other hand, the Linear Regression Model the training and test data were at 46.8, which was relatively the same as the test data, which was 48.4.  The data performed better on the Random Forest Data for training but performed poorly on the testing and also poorly when it was tuned. It also performed poorly on Linear Regression Model.  
 
 The Random Forest Model showed better results on the training data than the Linear Regression Model. Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
 Random Forest Models are powerful and they have numerous hyperparameters to improve their performance. When we used GridSearch CV, the data showed the training data was similar to the Random Forest Model, which indicates that when it is tuned, data works similar.
