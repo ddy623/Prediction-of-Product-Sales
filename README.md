@@ -3,7 +3,7 @@
 By: Deidre Hunt
 
 Business Problem:
-What products at a grocery store has the most impact on sales? 
+What products at a grocery store has the most impact on sales? The products sold at the grocery store were 
 
 Data:
 The data shows that some items were sold more than others and that item visibility played a role in sales.  The target of the project was outlet_sales and the features of the assignment were: Item_Weight, Item_Visibility, Item_MRP, and Outlet Establishment Year.  
