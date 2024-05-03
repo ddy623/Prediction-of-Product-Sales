@@ -3,17 +3,17 @@
 By: Deidre Hunt
 
 Business Problem:
-What products at a grocery store has the most impact on sales? The products sold at the grocery store were 
+What products at a grocery store has the most impact on sales? The products were dairy, soft drinks, meat, fruits and vegetables,household items, baking goods, snack and frozen foods, breakfast, health and hygiene products, hard drinks, canned food, breads, starchy foods, and seafood. It also included products that were considered as other, which was likely miscellaneous products.
 
 Data:
 The data shows that some items were sold more than others and that item visibility played a role in sales.  The target of the project was outlet_sales and the features of the assignment were: Item_Weight, Item_Visibility, Item_MRP, and Outlet Establishment Year.  
 
 Methods:
-This project has two components. The first is an Exploratory Data Analysis and the second component consists of using Machine Learning to analyze the data.
+This project has two components. The first is an Exploratory Data Analysis and the second component consists of using Machine Learning to analyze the data.  
 
-Based upon Exploratory Data Analysis, we are able to see that there is variation across the data and some items sold more than others.  The data shows that Fruits and Vegetables, Snack Foods, and Household items were the highest among items sold. See figure 1.
+Exploratory Data Analysis is a method used to analyze and summarize data sets. With this method, we were able to see variation across the data and some items sold more than others.  The data shows that Fruits and Vegetables, Snack Foods, and Household items were the highest among items sold. See figure 1.
 
-Using Machine Learning, we analyze the data using Regression Models.  The Regression models used to predict sales,  were Linear Regression and Random Forest Trees Model.
+ On the other hand,using machine learning, which is a branch of artificial intelligence(AI) that focuses on using data and algorithms. The methods that were used were Regression models.  The Regression models used to predict sales,  were Linear Regression and Random Forest Trees Model.
 
 Results:
 Based upon the data, we were able to see that Item Weight, Item MRP and Item Visibility played a much greater role on sales than Item Fat Content or Item Type, as this was indicated in the Random Forest Tree Model( See Figure 3). However, the Linear Regression Model using coefficients indicated that high among Item_MRP, Item_Seafood, and Item_Bread, which means these three items had the most impact on sales (See Figure 4). 
