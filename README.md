@@ -3,7 +3,7 @@
 By: Deidre Hunt
 
 Business Problem:
-What products at a grocery store has the most impact on sales? The products were dairy, soft drinks, meat, fruits and vegetables,household items, baking goods, snack and frozen foods, breakfast, health and hygiene products, hard drinks, canned food, breads, starchy foods, and seafood. It also included products that were considered as other, which was likely miscellaneous products.
+What products at a grocery store has the most impact on sales? The products were dairy, soft drinks, meat, fruits and vegetables,household items, baking goods, snack and frozen foods, breakfast, health and hygiene products, hard drinks, canned food, breads, starchy foods, and seafood. It also included products that were considered as other (e.g.miscellaneous products).
 
 Data:
 The data shows that some items were sold more than others and that item visibility played a role in sales.  The target of the project was outlet_sales and the features of the assignment were: Item_Weight, Item_Visibility, Item_MRP, and Outlet Establishment Year.  
